@@ -8,5 +8,5 @@
 ## 项目配置  
 * 作者开发环境：  
 * Python 3.7  
-* tensorflow 2.0
+* pytorch
 * opencv-python 
